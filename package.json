@@ -1,0 +1,19 @@
+{
+  "name": "ip-search-typescript-challenge",
+  "version": "0.0.0",
+  "description": "challenge to search ips with geoip and rdap",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatthoselemons/ip-search-typescript-challenge.git"
+  },
+  "author": "Ethan Lambert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eatthoselemons/ip-search-typescript-challenge/issues"
+  },
+  "homepage": "https://github.com/eatthoselemons/ip-search-typescript-challenge#readme"
+}
